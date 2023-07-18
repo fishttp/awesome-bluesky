@@ -2,6 +2,8 @@
 
 [Bluesky](https://github.com/bluesky-social/) is an open-source microblogging platform powered by the [AT Protocol](https://atproto.com/). This protocol enables the creation of powerful third party tools, enlisted here for easy reference. They are currently listed alphabetically by title; categories can come later as more tools emerge.
 
+Are you a programmer? Check out [Awesome ATProto](https://github.com/beeman/awesome-atproto) which has some overlap with this list but many more resources for libraries, bots, and the like. This list is intended for end user facing software and tools. 
+
 Always use an app password, never your main password!
 
 ## Bluesky Tools

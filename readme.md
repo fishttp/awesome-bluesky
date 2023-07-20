@@ -4,6 +4,8 @@
 
 Are you a programmer? Check out [Awesome ATProto](https://github.com/beeman/awesome-atproto) which has some overlap with this list but many more resources for libraries, bots, and the like. This list is intended for end user facing software and tools.
 
+Know of another tool? Either submit it here as a pull request or simply tell me ([@fish.posting.lol](https://bsky.app/profile/fish.posting.lol)) about it on Bluesky.
+
 Always use an app password, never your main password!
 
 ## Bluesky Tools
@@ -25,4 +27,5 @@ Always use an app password, never your main password!
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
  - [Twexit.nl](https://twexit.nl/) - self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats
+ - [vSky](https://www.vsky.social/) - alternative client in the form of a progressive web app
  - [Wolfgang](https://wolfgang.raios.xyz/) - charts, interactions, social circles, top lists

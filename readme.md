@@ -18,11 +18,11 @@ Always use an app password, never your main password!
  - [Kite](https://kite.black) - alternative web client
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client
- - [SkyFeed](https://skyfeed.ap) - alternative web client with a powerful custom feed builder
+ - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
+ - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
  - [Twexit.nl](https://twexit.nl/) - self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats
  - [Wolfgang](https://wolfgang.raios.xyz/) - charts, interactions, social circles, top lists
- - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon

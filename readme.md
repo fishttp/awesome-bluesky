@@ -19,6 +19,7 @@ Always use an app password, never your main password!
  - [graysky.social](https://graysky.social/) - community handle provider
  - [Kite](https://kite.black) - alternative web client
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
+ - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client
  - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder

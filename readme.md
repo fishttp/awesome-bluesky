@@ -11,6 +11,7 @@ Always use an app password, never your main password!
 ## Bluesky Tools
 
  - [Atlas](https://bsky.jazco.dev/) - engagement based social graph
+ - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [Firesky](https://firesky.tv/) - every post everywhere all at once

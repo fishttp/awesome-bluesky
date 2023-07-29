@@ -20,6 +20,10 @@ Always use an app password, never your main password!
  - [goodfeeds](https://goodfeeds.co/) - custom feed directory/search engine and builder
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
 
+## Migration
+ - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
+ - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
+
 ## Other tools
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
  - [ClearSky Search Tool](https://bsky.thieflord.dev/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
@@ -27,8 +31,6 @@ Always use an app password, never your main password!
  - [graysky.social](https://graysky.social/) - community handle provider
  - [psky.app](https://github.com/ianklatzco/psky.app/) - replace "bsky" in URLs with "psky" to embed posts in Discord, Telegram, etc
  - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
- - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
- - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
 

@@ -22,6 +22,7 @@ Always use an app password, never your main password!
 
 ## Other tools
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
+ - [ClearSky Search Tool](https://bsky.thieflord.dev/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
  - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider
  - [psky.app](https://github.com/ianklatzco/psky.app/) - replace "bsky" in URLs with "psky" to embed posts in Discord, Telegram, etc

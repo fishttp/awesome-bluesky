@@ -26,6 +26,7 @@ Always use an app password, never your main password!
 
 ## Other tools
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
+ - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
  - [ClearSky Search Tool](https://bsky.thieflord.dev/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
  - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider

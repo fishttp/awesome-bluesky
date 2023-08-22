@@ -34,6 +34,7 @@ Always use an app password, never your main password!
  - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
+ - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
 
 ## Alternative Clients
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS

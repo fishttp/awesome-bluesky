@@ -21,7 +21,7 @@ Always use an app password, never your main password!
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
 
 ## Migration
- - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
+ - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - chrome add-on to find your Twitter follows and followers on Bluesky
  - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
 
 ## Other tools
@@ -31,7 +31,7 @@ Always use an app password, never your main password!
  - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider
  - [psky.app](https://github.com/ianklatzco/psky.app/) - replace "bsky" in URLs with "psky" to embed posts in Discord, Telegram, etc
- - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
+ - [SkyBridge](https://skybridge.fly.dev/) - proxy between Bluesky and Mastodon
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
 

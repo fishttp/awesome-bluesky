@@ -33,6 +33,7 @@ Always use an app password, never your main password!
  - [graysky.social](https://graysky.social/) - community handle provider
  - [psky.app](https://github.com/ianklatzco/psky.app/) - replace "bsky" in URLs with "psky" to embed posts in Discord, Telegram, etc
  - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
+ - [SkySweeper] - automatically delete old posts
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))

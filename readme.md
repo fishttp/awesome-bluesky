@@ -29,21 +29,21 @@ Always use an app password, never your main password!
 
 ## Other tools
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
- - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
+ - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
+ - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
  - [ClearSky Search Tool](https://bsky.thieflord.dev/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
- - [Firesky](https://firesky.tv/) - every post everywhere all at once
- - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
- - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
- - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
- - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
- - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
- - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account. 
- - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
+ - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider
  - [psky.app](https://github.com/ianklatzco/psky.app/) - replace "bsky" in URLs with "psky" to embed posts in Discord, Telegram, etc
+ - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
+ - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
+ - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
+ - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
+ - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
+ - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account. 
 
 ## Alternative Clients
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS

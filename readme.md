@@ -46,6 +46,7 @@ Always use an app password, never your main password!
  - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account. 
 
 ## Alternative Clients
+ - [deck.blue](https://deck.blue/) - alternative web client with column view
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS
  - [Kite](https://kite.black) - alternative web client
  - [Langit](https://langit.pages.dev/) - alternative mobile web client

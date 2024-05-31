@@ -35,6 +35,7 @@ Always use an app password, never your main password!
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
  - [bsky-event-handlers](https://github.com/juni-b-queer/bsky-event-handlers) - A simple and extendable Typescript framework and package for creating Bluesky bots that consume the firehose stream, without having to touch any firehose code.
  - [ClearSky Search Tool](https://bsky.thieflord.dev/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
+ - [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 Click Management and Deployment Suite for bluesky PDS. Run bsky PDS on your Windows, MacOS or Linux computer. Takes care of your IP and everything, hands free.
  - [create-bsky-bot](https://github.com/juni-b-queer/create-bsky-bot) - A `bunx` template to scaffold all the files for a bot built with bsky-event-handlers. Built in Typescript, meant for use with BunJS.
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
  - [Firesky](https://firesky.tv/) - every post everywhere all at once

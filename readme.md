@@ -15,6 +15,12 @@ Always use an app password, never your main password!
  - [Twexit.nl](https://twexit.nl/) - self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats. **WARNING:** Twexit has suffered multiple vulnerabilites. Log in at your own risk.
  - [Wolfgang](https://wolfgang.raios.xyz/) - charts, interactions, social circles, top lists
 
+## Community handles for Bluesky
+
+ - [Bluesky.bot](https://bluesky.bot) - Claim your handle.bluesky.bot username if you have a bot on Bluesky.
+ - [Swifties.social](https://swifties.social) - Get your own swifties.social handle for Bluesky
+ - [SkyName](https://www.skyname.io) - Get Your Personalized Bluesky Handle!
+
 ## Feeds
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [goodfeeds](https://goodfeeds.co/) - custom feed directory/search engine and builder
@@ -42,6 +48,7 @@ Always use an app password, never your main password!
  - [psky.app](https://github.com/ianklatzco/psky.app/) - replace "bsky" in URLs with "psky" to embed posts in Discord, Telegram, etc
  - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
+ - [Skycle.app](https://skycle.app) - Who are your best friends on the Bluesky network?
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool

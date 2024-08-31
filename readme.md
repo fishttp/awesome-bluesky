@@ -46,6 +46,7 @@ Always use an app password, never your main password!
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account. 
+ - [SkyPicker](https://skypicker.site/) - Do raffles in BlueSky
 
 ## Alternative Clients
  - [deck.blue](https://deck.blue/) - alternative web client with column view

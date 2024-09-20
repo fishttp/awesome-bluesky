@@ -33,7 +33,9 @@ Always use an app password, never your main password!
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
+ - [bsky-event-handlers](https://github.com/juni-b-queer/bsky-event-handlers) - A simple and extendable Typescript framework and package for creating Bluesky bots that consume the firehose stream, without having to touch any firehose code.
  - [ClearSky Search Tool](https://clearsky.app/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
+ - [create-bsky-bot](https://github.com/juni-b-queer/create-bsky-bot) - A `bunx` template to scaffold all the files for a bot built with bsky-event-handlers. Built in Typescript, meant for use with BunJS.
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
  - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider
@@ -44,6 +46,7 @@ Always use an app password, never your main password!
  - [Skythread](https://mackuba.github.io/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account. 
+ - [SkyPicker](https://skypicker.site/) - Do raffles in BlueSky
 
 ## Alternative Clients
  - [deck.blue](https://deck.blue/) - alternative web client with column view

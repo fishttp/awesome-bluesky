@@ -51,7 +51,7 @@ Always use an app password, never your main password!
 ## Alternative Clients
  - [deck.blue](https://deck.blue/) - alternative web client with column view
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS
- - [Kite](https://kite.black) - alternative web client
+ - [Kite](https://github.com/callmearta/kite) - alternative web client
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
  - [Nootti](https://nootti.com) - alternative native iOS/iPad cross-posting client for Bluesky, Mastodon and Nostr
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client

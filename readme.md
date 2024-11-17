@@ -57,6 +57,6 @@ Always use an app password, never your main password!
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
- - [vSky](https://www.vsky.social/) - alternative client in the form of a progressive web app
+ - [vSky](https://github.com/skiniks/vsky) - alternative client in the form of a progressive web app (! Discontinued)
 
 

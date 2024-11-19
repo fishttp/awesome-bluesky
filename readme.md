@@ -57,9 +57,11 @@ Always use an app password, never your main password!
  - [Kite](https://github.com/callmearta/kite) - alternative web client
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
  - [Nootti](https://nootti.com) - alternative native iOS/iPad cross-posting client for Bluesky, Mastodon and Nostr
+ - [Skeetdeck](https://skeetdeck.pages.dev/) - web client based on Tweetdeck
  - [Skeets](https://www.skeetsapp.com) - alternative client for iOS, iPadOS and MacOS
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
+ - [Tabtter](https://tabtter.jp/) - webclient with a Japanese focus
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
 
 

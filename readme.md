@@ -49,6 +49,7 @@ Know of another tool? Either submit it here as a pull request or simply tell me 
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
 
 ## Alternative Clients
+ - [Croissant](https://croissantapp.com/) - alternative native iOS cross-posting client for Bluesky, Mastodon and Threads
  - [deck.blue](https://deck.blue/) - alternative web client with column view
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS
  - [Kite](https://github.com/callmearta/kite) - alternative web client

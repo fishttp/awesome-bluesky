@@ -9,6 +9,7 @@ Know of another tool? Either submit it here as a pull request or simply tell me 
 Always use an app password, never your main password!
 
 ## Charts, graphs, and stats
+ - [Bcounter](https://bcounter.nat.vg/) - near real time user counter
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
@@ -38,6 +39,7 @@ Always use an app password, never your main password!
 ## Other tools
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
+ - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
  - [ClearSky Search Tool](https://bsky.thieflord.dev/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.

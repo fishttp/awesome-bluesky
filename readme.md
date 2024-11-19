@@ -56,6 +56,7 @@ Know of another tool? Either submit it here as a pull request or simply tell me 
  - [Kite](https://github.com/callmearta/kite) - alternative web client
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
  - [Nootti](https://nootti.com) - alternative native iOS/iPad cross-posting client for Bluesky, Mastodon and Nostr
+ - [Skeets](https://www.skeetsapp.com) - alternative client for iOS, iPadOS and MacOS
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client

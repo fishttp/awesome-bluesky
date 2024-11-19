@@ -2,11 +2,11 @@
 
 [Bluesky](https://github.com/bluesky-social/) is an open-source microblogging platform powered by the [AT Protocol](https://atproto.com/). This protocol enables the creation of powerful third party tools, enlisted here for easy reference.
 
-Are you a programmer? Check out [Awesome ATProto](https://github.com/beeman/awesome-atproto) which has some overlap with this list but many more resources for libraries, bots, and the like. This list is intended for end user facing software and tools. [The Bluesky Index](https://github.com/scrub-dev/bsky-index/) is another great list to check out as well.
+Are you a programmer? Check out [Awesome ATProto](https://github.com/beeman/awesome-atproto) which has some overlap with this list but many more resources for libraries, bots, and the like. This list is intended for end user facing software and tools. [The Bluesky Index](https://github.com/scrub-dev/bsky-index/) is another great list to check out as well. This list is for user centric applications that can run without progamming knowledge that are ready to run "out of the box". Libraries, self-hosting tools, etc should be submitted elsewhere.
 
 Know of another tool? Either submit it here as a pull request or simply tell me ([@fishttp.website](https://bsky.app/profile/fishttp.website)) about it on Bluesky.
 
-**Always use an app password, never your main password!**
+Always use an app password, never your main password!
 
 ## Charts, graphs, and stats
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD

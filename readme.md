@@ -27,6 +27,7 @@ Know of another tool? Either submit it here as a pull request or simply tell me 
  - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
  - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
  - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
+ - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
 
 ## Post Management 
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon

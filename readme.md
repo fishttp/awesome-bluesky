@@ -12,9 +12,9 @@ Always use an app password, never your main password!
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
+ - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
  - [Twexit.nl](https://twexit.nl/) - self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats. **WARNING:** Twexit has suffered multiple vulnerabilites in the past. Log in at your own risk.
- - [Wolfgang](https://wolfgang.raios.xyz/) - charts, interactions, social circles, top lists
 
 ## Feeds
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator

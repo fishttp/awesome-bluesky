@@ -52,6 +52,7 @@ Always use an app password, never your main password!
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account. 
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
+ - [Vanity Blue](https://vanity.blue/) - custom handle provider
 
 ## Alternative Clients
  - [Croissant](https://croissantapp.com/) - alternative native iOS cross-posting client for Bluesky, Mastodon and Threads

@@ -47,6 +47,7 @@ Always use an app password, never your main password!
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account. 
  - [SkyPicker](https://skypicker.site/) - Do raffles in BlueSky
+ - [bsky-react-post](https://github.com/rhinobase/react-bluesky) - Embed Bluesky (bsky) posts in your React application.
 
 ## Alternative Clients
  - [deck.blue](https://deck.blue/) - alternative web client with column view

@@ -15,6 +15,7 @@ Always use an app password, never your main password!
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
  - [SkeetStats](https://skeetstats.xyz/) - posting stat tracking
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
+ - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
 
 ## Feeds

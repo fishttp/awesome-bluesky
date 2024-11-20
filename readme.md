@@ -16,7 +16,6 @@ Always use an app password, never your main password!
  - [SkeetStats](https://skeetstats.xyz/) - posting stat tracking
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
- - [Twexit.nl](https://twexit.nl/) - self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats. **WARNING:** Twexit has suffered multiple vulnerabilites in the past. Log in at your own risk.
 
 ## Feeds
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required

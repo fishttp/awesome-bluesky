@@ -19,11 +19,12 @@ Always use an app password, never your main password!
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
 
-## Feeds
+## Feeds & Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [goodfeeds](https://goodfeeds.co/) - custom feed directory/search engine and builder
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
+ - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools
 
 ## Migration
  - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse

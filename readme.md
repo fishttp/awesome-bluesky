@@ -33,10 +33,13 @@ Always use an app password, never your main password!
  - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
  - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
 
-## Post Management 
+## Post Management
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
+
+## Starter Packs
+ - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools
 
 ## Other tools
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
@@ -52,7 +55,7 @@ Always use an app password, never your main password!
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
  - [Skythread](https://blue.mackuba.eu/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
- - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account. 
+ - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account.
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
 
@@ -69,5 +72,3 @@ Always use an app password, never your main password!
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Tabtter](https://tabtter.jp/) - webclient with a Japanese focus
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
-
-

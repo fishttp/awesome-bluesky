@@ -16,6 +16,7 @@ Always use an app password, never your main password!
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
  - [SkeetStats](https://skeetstats.xyz/) - posting stat tracking
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
+ - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
 
@@ -62,8 +63,10 @@ Always use an app password, never your main password!
  - [deck.blue](https://deck.blue/) - alternative web client with column view
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS
  - [Kite](https://github.com/callmearta/kite) - alternative web client
+ - [Klearsky](https://klearsky.pages.dev/) - alternative web client that is "design first"
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
  - [Nootti](https://nootti.com) - alternative native iOS/iPad cross-posting client for Bluesky, Mastodon and Nostr
+ - [Ouranos](https://useouranos.app/) - webclient built with Next.js
  - [Skeetdeck](https://skeetdeck.pages.dev/) - web client based on Tweetdeck
  - [Skeets](https://www.skeetsapp.com) - alternative client for iOS, iPadOS and MacOS
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client

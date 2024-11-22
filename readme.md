@@ -59,6 +59,7 @@ Always use an app password, never your main password!
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
 
 ## Alternative Clients
+ - [Bluesky Follower Explorer](https://bluesky-followers.advaith.io/) - see who follows your followers
  - [Croissant](https://croissantapp.com/) - alternative native iOS cross-posting client for Bluesky, Mastodon and Threads
  - [deck.blue](https://deck.blue/) - alternative web client with column view
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS

@@ -20,12 +20,15 @@ Always use an app password, never your main password!
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
 
-## Feeds & Starter Packs
+## Feeds, Labels, and Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
+ - [Bluesky Labelers](https://www.bluesky-labelers.io/) - searchable index of labelers
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [goodfeeds](https://goodfeeds.co/) - custom feed directory/search engine and builder
+ - [Label Scanner](https://blue.mackuba.eu/scanner/) - view all labels applied to an account
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools
+ - [The Ultimate Directory](https://blueskydirectory.com/) - large searchable index of starter packs and lists
 
 ## Migration
  - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
@@ -50,7 +53,6 @@ Always use an app password, never your main password!
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
  - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider
- - [Label Scanner](https://blue.mackuba.eu/scanner/) - view all labels applied to an account
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
  - [Skythread](https://blue.mackuba.eu/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool

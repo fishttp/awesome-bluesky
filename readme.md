@@ -77,5 +77,6 @@ Always use an app password, never your main password!
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Tabtter](https://tabtter.jp/) - webclient with a Japanese focus
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
+ - [Unisky](https://github.com/UnicordDev/UniSky) - client for Windows 11, Windows 10 and Windows 10 Mobile 
 
 

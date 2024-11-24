@@ -66,6 +66,7 @@ Always use an app password, never your main password!
 ## Alternative Clients
  - [Bluesky Follower Explorer](https://bluesky-followers.advaith.io/) - see who follows your followers
  - [Croissant](https://croissantapp.com/) - alternative native iOS cross-posting client for Bluesky, Mastodon and Threads
+ - [DarkSky](https://github.com/FireCubeStudios/DarkSky) - modern client for Windows
  - [deck.blue](https://deck.blue/) - alternative web client with column view
  - [Graysky](https://graysky.app/) - alternative mobile client for both Android and iOS
  - [Kite](https://github.com/callmearta/kite) - alternative web client

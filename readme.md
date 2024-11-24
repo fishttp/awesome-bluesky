@@ -48,9 +48,11 @@ Always use an app password, never your main password!
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
  - [Bluesky Firehose in 3D](https://firehose3d.theo.io/) - a live view of every post on the network ...in 3D!
+ - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
+ - [cleanfollow-bsky](https://cleanfollow-bsky.pages.dev/) - tool to unfollow inactive or blocked accounts
  - [ClearSky Search Tool](https://clearsky.app/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
  - [Firesky](https://firesky.tv/) - every post everywhere all at once

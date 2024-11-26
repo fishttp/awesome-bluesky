@@ -14,6 +14,7 @@ Always use an app password, never your main password!
  - [Bluesky Social Profile Statistics](https://bstat.app/) - tracking Bluesky profile statistics, such as the number of followers, follows, skeets, likes, and reposts
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
+ - [Fedica](https://fedica.com/) - posting analysis and and insights
  - [SkeetStats](https://skeetstats.xyz/) - posting stat tracking
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 

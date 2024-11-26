@@ -21,6 +21,7 @@ Always use an app password, never your main password!
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
+ - [Bluesky Meter](https://blueskymeter.com) - Enjoyable Bluesky Analytics (with posting streak heatmap).
 
 ## Feeds, Labels, and Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required

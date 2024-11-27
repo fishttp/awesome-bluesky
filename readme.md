@@ -12,6 +12,7 @@ Always use an app password, never your main password!
  - [Bcounter](https://bcounter.nat.vg/) - near real time user counter
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
  - [Bluesky Meter](https://blueskymeter.com) - posting analytics, including a streak heatmap
+ - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
  - [Bluesky Social Profile Statistics](https://bstat.app/) - tracking Bluesky profile statistics, such as the number of followers, follows, skeets, likes, and reposts
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts

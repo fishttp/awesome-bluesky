@@ -11,18 +11,12 @@ Always use an app password, never your main password!
 ## Charts, graphs, and stats
  - [Bcounter](https://bcounter.nat.vg/) - near real time user counter
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
- - [Bluesky Meter](https://blueskymeter.com) - posting analytics, including a streak heatmap
- - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
  - [Bluesky Social Profile Statistics](https://bstat.app/) - tracking Bluesky profile statistics, such as the number of followers, follows, skeets, likes, and reposts
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
- - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
- - [Fedica](https://fedica.com/) - posting analysis and and insights
  - [SkeetStats](https://skeetstats.xyz/) - posting stat tracking
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
- - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
- - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
 
 ## Feeds, Labels, and Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
@@ -41,6 +35,15 @@ Always use an app password, never your main password!
  - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
  - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
  - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
+
+## Post Analytics
+ - [Bluesky Copilot](https://blueskycopilot.yourgenlab.com/) - analyses your posts, gathers the best/worst performing ones and generates some suggestions
+ - [Bluesky Meter](https://blueskymeter.com) - posting streak heatmap
+ - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
+ - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
+ - [Fedica](https://fedica.com/) - posting analysis and and insights
+ - [SkyKit](https://skykit.blue/) - post engagement analysis
+ - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
 
 ## Post Management 
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon

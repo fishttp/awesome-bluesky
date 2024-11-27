@@ -71,6 +71,7 @@ Always use an app password, never your main password!
  - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account. 
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
  - [SwearSky](https://swearsky.bagpuss.org/) - live view of every post with a swear word in it
+ - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
 
 ## Alternative Clients

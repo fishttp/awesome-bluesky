@@ -37,6 +37,7 @@ Always use an app password, never your main password!
  - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
 
 ## Post Analytics
+ - [Bluesky Analytics](https://bluesky-insights.dwagentai.com/) - does what it says on the tin
  - [Bluesky Copilot](https://blueskycopilot.yourgenlab.com/) - analyses your posts, gathers the best/worst performing ones and generates some suggestions
  - [Bluesky Meter](https://blueskymeter.com) - posting streak heatmap
  - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend

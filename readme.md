@@ -19,7 +19,7 @@ Always use an app password, never your main password!
  - [Fedica](https://fedica.com/) - posting analysis and and insights
  - [SkeetStats](https://skeetstats.xyz/) - posting stat tracking
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
- - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
+ - [Skycle.app](https://skycle.app/) - highly customizable interaction circles
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
@@ -41,8 +41,9 @@ Always use an app password, never your main password!
  - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
  - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
  - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
+ - [Bluesky Badges](https://chromewebstore.google.com/detail/bluesky-for-everyone/bmoehnfdgafmljnmbidgjhgfaegkfddk) - Chrome extension showing badges for Bluesky users on X (formerly Twitter) to help find your Bluesky friends
 
-## Post Management 
+## Post Management
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
@@ -64,7 +65,7 @@ Always use an app password, never your main password!
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
  - [Skythread](https://blue.mackuba.eu/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
- - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account. 
+ - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account.
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
  - [SwearSky](https://swearsky.bagpuss.org/) - live view of every post with a swear word in it
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
@@ -86,6 +87,4 @@ Always use an app password, never your main password!
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Tabtter](https://tabtter.jp/) - webclient with a Japanese focus
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
- - [Unisky](https://github.com/UnicordDev/UniSky) - client for Windows 11, Windows 10 and Windows 10 Mobile 
-
-
+ - [Unisky](https://github.com/UnicordDev/UniSky) - client for Windows 11, Windows 10 and Windows 10 Mobile

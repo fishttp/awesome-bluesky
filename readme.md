@@ -72,6 +72,7 @@ Always use an app password, never your main password!
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
  - [SwearSky](https://swearsky.bagpuss.org/) - live view of every post with a swear word in it
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
+ - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
 
 ## Alternative Clients
  - [Bluesky Follower Explorer](https://bluesky-followers.advaith.io/) - see who follows your followers

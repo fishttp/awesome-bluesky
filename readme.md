@@ -24,6 +24,7 @@ Always use an app password, never your main password!
  - [Bluesky Labelers](https://www.bluesky-labelers.io/) - searchable index of labelers
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [goodfeeds](https://goodfeeds.co/) - custom feed directory/search engine and builder
+ - [Graze](https://www.graze.social/) - effortlessly design, deploy, and optimize any algorithm on Bluesky, without a single line of code
  - [Label Scanner](https://blue.mackuba.eu/scanner/) - view all labels applied to an account
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools

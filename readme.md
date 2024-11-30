@@ -29,6 +29,7 @@ Always use an app password, never your main password!
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools
  - [The Ultimate Directory](https://blueskydirectory.com/) - large searchable index of starter packs and lists
+ - [Starter Pack/List conversions and combinations](https://nws-bot.us/bskyStarterPack.php) - Collection of tools for converting Starter Packs to Lists, combining lists, and more
 
 ## Migration
  - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse

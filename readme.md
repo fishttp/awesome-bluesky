@@ -76,6 +76,7 @@ Always use an app password, never your main password!
  - [SwearSky](https://swearsky.bagpuss.org/) - live view of every post with a swear word in it
  - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
+ - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
 
 ## Alternative Clients
  - [Bluesky Follower Explorer](https://bluesky-followers.advaith.io/) - see who follows your followers

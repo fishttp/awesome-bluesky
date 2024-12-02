@@ -95,6 +95,7 @@ Always use an app password, never your main password!
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Tabtter](https://tabtter.jp/) - webclient with a Japanese focus
+ - [Tuisky](https://github.com/sugyan/tuisky) - a TUI client for Bluesky
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
  - [Unisky](https://github.com/UnicordDev/UniSky) - client for Windows 11, Windows 10 and Windows 10 Mobile 
 

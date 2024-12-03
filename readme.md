@@ -94,6 +94,7 @@ Always use an app password, never your main password!
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
  - [Nootti](https://nootti.com) - alternative native iOS/iPad cross-posting client for Bluesky, Mastodon and Nostr
  - [Ouranos](https://useouranos.app/) - webclient built with Next.js
+ - [RedGazer](https://www.redgazer.com/) - alternative front end focusing on media content
  - [Skeetdeck](https://skeetdeck.pages.dev/) - web client based on Tweetdeck
  - [Skeets](https://www.skeetsapp.com) - alternative client for iOS, iPadOS and MacOS
  - [Sky.app](https://github.com/jcsalterego/Sky.app) - alternative MacOS client

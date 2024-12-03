@@ -63,6 +63,7 @@ Always use an app password, never your main password!
  - [Bluesky Firehose in 3D](https://firehose3d.theo.io/) - a live view of every post on the network ...in 3D!
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
+ - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) – Start a conversation next to any web page using your Bluesky account
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.

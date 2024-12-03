@@ -60,6 +60,7 @@ Always use an app password, never your main password!
  - [Bluesky Firehose in 3D](https://firehose3d.theo.io/) - a live view of every post on the network ...in 3D!
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
+ - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
  - [cleanfollow-bsky](https://cleanfollow-bsky.pages.dev/) - tool to unfollow inactive or blocked accounts
@@ -76,7 +77,6 @@ Always use an app password, never your main password!
  - [SwearSky](https://swearsky.bagpuss.org/) - live view of every post with a swear word in it
  - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
- - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
 
 ## Alternative Clients
  - [Bluesky Follower Explorer](https://bluesky-followers.advaith.io/) - see who follows your followers

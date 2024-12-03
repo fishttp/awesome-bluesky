@@ -79,6 +79,7 @@ Always use an app password, never your main password!
  - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account. 
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
  - [Slipstream](https://birdbrain.dev/bluesky/slipstream.html) - Firehose viewer with word filter
+ - [Social Media Bot](https://www.pelock.com/products/social-media-bot) - automate post likes, reposts, follows/unfollows, comment likes
  - [SwearSky](https://swearsky.bagpuss.org/) - live view of every post with a swear word in it
  - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
  - [Vanity Blue](https://vanity.blue/) - custom handle provider

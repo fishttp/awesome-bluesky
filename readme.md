@@ -13,6 +13,7 @@ Always use an app password, never your main password!
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
  - [Bluesky Social Profile Statistics](https://bstat.app/) - tracking Bluesky profile statistics, such as the number of followers, follows, skeets, likes, and reposts
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
+ - [Dopplersky](https://dopplersky.com) - profile tracking & insights
  - [Realtime Bluesky Metrics](https://realtime.blue/) - live look at a user's stats, including actual followers over 1,000
  - [SkeetStats](https://skeetstats.xyz/) - posting stat tracking
  - [Skircle](https://skircle.me/) - create a personalized interaction circle

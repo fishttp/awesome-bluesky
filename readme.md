@@ -60,6 +60,7 @@ Always use an app password, never your main password!
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
 
 ## Other tools
+ - [AT Webhooks](https://atprotowebhooks.com) - generally programmable firehose-to-webhook server
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
  - [Bluesky Firehose in 3D](https://firehose3d.theo.io/) - a live view of every post on the network ...in 3D!

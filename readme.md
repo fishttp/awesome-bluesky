@@ -19,6 +19,7 @@ Always use an app password, never your main password!
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
+ 
 
 ## Feeds, Labels, and Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
@@ -44,6 +45,7 @@ Always use an app password, never your main password!
  - [Bluesky Analytics](https://bluesky-insights.dwagentai.com/) - does what it says on the tin
  - [Bluesky Copilot](https://blueskycopilot.yourgenlab.com/) - analyses your posts, gathers the best/worst performing ones and generates some suggestions
  - [Bluesky Meter](https://blueskymeter.com) - posting streak heatmap
+ - [Bluesky Insights](https://bskyinsights.com) - interesting insights featuring word-clouds and engagement-rate charts
  - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
  - [Bskypt](https://bskypt.vercel.app/) - generate a "social receipt"

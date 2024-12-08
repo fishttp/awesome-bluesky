@@ -43,7 +43,7 @@ Always use an app password, never your main password!
 ## Post Analytics
  - [Bluesky Analytics](https://bluesky-insights.dwagentai.com/) - does what it says on the tin
  - [Bluesky Copilot](https://blueskycopilot.yourgenlab.com/) - analyses your posts, gathers the best/worst performing ones and generates some suggestions
- - [Bluesky Insights](https://bskyinsights.com) - interesting insights for any Bluesky profile, such as 
+ - [Bluesky Insights](https://bskyinsights.com) - interesting insights for any Bluesky profile
  - [Bluesky Meter](https://blueskymeter.com) - posting streak heatmap
  - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
@@ -87,6 +87,7 @@ Always use an app password, never your main password!
  - [Slipstream](https://birdbrain.dev/bluesky/slipstream.html) - Firehose viewer with word filter
  - [Social Media Bot](https://www.pelock.com/products/social-media-bot) - automate post likes, reposts, follows/unfollows, comment likes
  - [SwearSky](https://swearsky.bagpuss.org/) - live view of every post with a swear word in it
+ - [Swiper.blue](https://swiper.blue/) - discover new follows by swiping through profiles ala Tinder
  - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
 

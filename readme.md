@@ -90,6 +90,7 @@ Always use an app password, never your main password!
  - [Swiper.blue](https://swiper.blue/) - discover new follows by swiping through profiles ala Tinder
  - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
+ - [noodlyy](https://www.noodlyy.com/) - Check which replies have satisfied the giveaway rules you set (e.g. liked, reposted, followed, etc.)
 
 ## Alternative Clients
  - [Bluesky Follower Explorer](https://bluesky-followers.advaith.io/) - see who follows your followers

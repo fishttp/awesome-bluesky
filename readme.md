@@ -56,6 +56,7 @@ Always use an app password, never your main password!
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
  - [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) - easy thread composer & large post splitter
  - [Bluesky Scheduler](https://www.blueskyscheduler.com/) - draft & schedule posts
+ - [bskylog](https://github.com/hidea/app_bskylog) - keep a local copy of all your Bluesky posts
  - [PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) - iOS app to bookmark posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts

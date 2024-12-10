@@ -37,7 +37,7 @@ Always use an app password, never your main password!
  - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter
  - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
  - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
- - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
+ - [Sky Follower Bridge](https://www.sky-follower-bridge.dev/) | [Repo](https://github.com/kawamataryo/sky-follower-bridge) | [Bluesky](https://bsky.app/profile/sky-follower-bridge.dev) - Chrome add-on to find your Twitter follows and followers on Bluesky - Chrome add-on to find your Twitter follows and followers on Bluesky
  - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
 
 ## Post Analytics

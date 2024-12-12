@@ -64,7 +64,7 @@ Always use an app password, never your main password!
 
  
 ## Accounts to follow that add features to BlueSky
-= [Listifications](https://bsky.app/profile/listifications.app) - Follow to receive notifications whenever you're added to a starter pack, block list, feed or someone blocks you.
+- [Listifications](https://bsky.app/profile/listifications.app) - Follow to receive notifications whenever you're added to a starter pack, block list, feed or someone blocks you.
 - ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) - Bookmarks! A feed of posts you've replied to with a 📌.
 
   

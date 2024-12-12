@@ -61,8 +61,13 @@ Always use an app password, never your main password!
  - [PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) - iOS app to bookmark posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
- 
 
+ 
+## Accounts to follow that add features to BlueSky
+= [Listifications](https://bsky.app/profile/listifications.app) - Follow to receive notifications whenever you're added to a starter pack, block list, feed or someone blocks you.
+- ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) - Bookmarks! A feed of posts you've replied to with a 📌.
+
+  
 ## Other tools
  - [AT Webhooks](https://atprotowebhooks.com) - generally programmable firehose-to-webhook server
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements

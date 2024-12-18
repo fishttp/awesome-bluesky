@@ -53,6 +53,7 @@ Always use an app password, never your main password!
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools
+ - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky
 
 ## Post Management 
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon

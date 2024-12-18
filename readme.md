@@ -91,6 +91,7 @@ Always use an app password, never your main password!
  - [Skythread](https://blue.mackuba.eu/skythread/) - thread viewer
  - [SkyTools](https://skytools.anon5r.com/) - user handle history and DID look up tool
  - [Skyview](https://skyview.social/) - View and share Bluesky threads without needing a BlueSky account. 
+ - [Skywriter.blue](https://skywriter.blue/) - Convert Bluesky threads into webpages.
  - [SkyPicker](https://skypicker.site/) - Do raffles on Bluesky
  - [Slipstream](https://birdbrain.dev/bluesky/slipstream.html) - Firehose viewer with word filter
  - [Social Media Bot](https://www.pelock.com/products/social-media-bot) - automate post likes, reposts, follows/unfollows, comment likes

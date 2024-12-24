@@ -87,6 +87,7 @@ Always use an app password, never your main password!
  - [graysky.social](https://graysky.social/) - community handle provider
  - [hellsky](https://hellsky.vvvvv.co/) - every image on the firehose (warning, will almost certainly be NSFW)
  - [Hugfairy](https://hugfairy.haider.id) - Hugfairy Bot for BlueSky
+ - [Screenie](https://www.screenie.me) - Capture and share screenshots instantly.
  - [SkeetBeaver](https://skeetbeaver.pages.dev/) - easily access all pubically available account information about any user via the Bluesky API
  - [Skyname](https://skyna.me) - username registrar with fun domains like bsky.cool, tired.io ([source](https://github.com/darnfish/skyname))
  - [Skythread](https://blue.mackuba.eu/skythread/) - thread viewer

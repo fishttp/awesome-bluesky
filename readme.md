@@ -48,6 +48,7 @@ Always use an app password, never your main password!
  - [Bluesky Meter](https://blueskymeter.com) - posting streak heatmap
  - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
+ - [Blue Wing](https://bluew.ing) - Post Schedule & Analytics SaaS
  - [Bskypt](https://bskypt.vercel.app/) - generate a "social receipt"
  - [Fedica](https://fedica.com/) - posting analysis and and insights
  - [SkyKit](https://skykit.blue/) - post engagement analysis

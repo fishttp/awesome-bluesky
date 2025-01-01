@@ -103,6 +103,7 @@ Always use an app password, never your main password!
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
  - [Woosh.link](https://woosh.link/) - Effortless link sharing for Bluesky and beyond.
  - [bskyutils](https://bskyutils.com/) - Suite of tools: - Analytics Tool, Follow Checker, Starter Pack Finder and Audience Analytics.
+ - [Bluesky Unfollowers Tracker](https://play.google.com/store/apps/details?id=com.bluesky.followers.analyzer) - Easily track who’s following you, who has unfollowed you, and gain valuable insights into your Bluesky network. Android App & iOS dues soon!
 
 ## Alternative Clients
  - [AzSky](https://azsky.app) - alternative client featuring a threaded view and support for long posts with a 50,000-character limit.

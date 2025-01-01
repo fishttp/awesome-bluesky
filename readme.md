@@ -63,6 +63,7 @@ Always use an app password, never your main password!
  - [PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) - iOS app to bookmark posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
+ - [bsky-bridge](https://github.com/0xExal/bsky-bridge) - A simple and quick-to-setup Python library for posting text and images to BlueSky via its API, available as a package on [PyPI](https://pypi.org/project/bsky-bridge).
  
 
 ## Other tools

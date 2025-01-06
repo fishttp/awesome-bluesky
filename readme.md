@@ -74,6 +74,7 @@ Always use an app password, never your main password!
  - [Bluesky Firehose in VR](https://vrchat.com/home/world/wrld_52865286-5286-5286-5286-528652865286/info) - a live view of every post on the network .. in VRChat
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
+ - [Bluesky Notify](https://pypi.org/project/bluesky-notify/), [codebase](https://github.com/jerdog/bluesky-notify/) - A cross-platform desktop notification system for Bluesky
  - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
  - [Blu.Ski](https://blu.ski) - Short links to bluesky profiles
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer

@@ -36,6 +36,7 @@ Always use an app password, never your main password!
 ## Migration
  - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
  - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter
+ - [HelloQuitX](https://app.helloquitx.com/) - Find your Twitter contacts on Bluesky
  - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
  - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
  - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky

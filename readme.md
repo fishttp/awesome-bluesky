@@ -13,6 +13,7 @@ Always use an app password, never your main password!
  - [Bluesky handle directory](https://blue.mackuba.eu/directory/) - directory of Bluesky handles sorted by TLD
  - [Bluesky Social Profile Statistics](https://bstat.app/) - tracking Bluesky profile statistics, such as the number of followers, follows, skeets, likes, and reposts
  - [Bluesky Stats](https://vqv.app/stats) - stats and top lists
+ - [Bluesky Trends and Insights](https://blue.facts.dev) - Top lists of most followed users, trending & fast growing user accounts
  - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) - Chrome extension with useful stats in a sidebar
  - [Dopplersky](https://dopplersky.com) - profile tracking & insights
  - [Realtime Bluesky Metrics](https://realtime.blue/) - live look at a user's stats, including actual followers over 1,000

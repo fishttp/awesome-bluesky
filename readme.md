@@ -74,7 +74,7 @@ Always use an app password, never your main password!
  - [Bluesky Firehose in VR](https://vrchat.com/home/world/wrld_52865286-5286-5286-5286-528652865286/info) - a live view of every post on the network .. in VRChat
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked
  - [Bluesky network analyser](https://bsky-follow-finder.theo.io/) - find accounts followed by your follows but not you
- - [Bluesky Unfollowers Tracker]([https://bsky-follow-finder.theo.io/](https://bsky.app/profile/bluesky-tracker.bsky.social)) - A mobile app to track Bluesky followers & unfollowers in real-time. The ultimate tracking tool!
+ - [Bluesky Unfollowers Tracker](https://bsky.app/profile/bluesky-tracker.bsky.social) - A mobile app to track Bluesky followers & unfollowers in real-time. The ultimate tracking tool!
  - [Bluerain](https://simone.computer/bluerain) - Bluesky firehose visualized in a Matrix-style rain
  - [Blu.Ski](https://blu.ski) - Short links to bluesky profiles
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer

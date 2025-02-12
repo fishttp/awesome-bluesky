@@ -20,6 +20,7 @@ Always use an app password, never your main password!
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
+ - [TheBlue.social](https://theblue.social) - analytics, post scheduling, search starter packs, follower management
  
 ## Feeds, Labels, and Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required

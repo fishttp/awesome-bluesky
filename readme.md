@@ -66,6 +66,7 @@ Always use an app password, never your main password!
  
 
 ## Other tools
+ - [BskyInfo](https://www.bskyinfo.com/) - The Most Comprehensive Bluesky Tools Directory
  - [AT Webhooks](https://atprotowebhooks.com) - generally programmable firehose-to-webhook server
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Best BlueSky Apps](https://bestblueskyapps.com) - a complete directory of best BlueSky apps and tools

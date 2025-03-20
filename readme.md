@@ -70,6 +70,7 @@ Always use an app password, never your main password!
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Best BlueSky Apps](https://bestblueskyapps.com) - a complete directory of best BlueSky apps and tools
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
+ - [BlueSky Enhancer](https://github.com/Invertex/BSKY-Enhancer) - Enhances bsky.app, adding 'Likes' feed on profiles, follow-status icons, improved media quality/downloading and much more!
  - [Bluesky Firehose in 3D](https://firehose3d.theo.io/) - a live view of every post on the network ...in 3D!
  - [Bluesky Firehose in VR](https://vrchat.com/home/world/wrld_52865286-5286-5286-5286-528652865286/info) - a live view of every post on the network .. in VRChat
  - [Bluesky-likes](https://luizzeroxis.github.io/bluesky-likes/) - see posts another user has liked

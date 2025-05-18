@@ -80,6 +80,7 @@ Always use an app password, never your main password!
  - [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) – Start a conversation next to any web page using your Bluesky account
  - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
  - [Byesky](https://byesky.pirhoo.com/) - Clean-up followings, non-mutuals or simply delete all your subscriptions with ease
+ - [Bluesky Tracker](https://bluesky-tracker.extensionsfox.com/) - Bluesky account followers analysis & batch unfollow & Ghost Follower Detection
  - [cleanfollow-bsky](https://cleanfollow-bsky.pages.dev/) - tool to unfollow inactive or blocked accounts
  - [ClearSky Search Tool](https://clearsky.app/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker

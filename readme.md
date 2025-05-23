@@ -34,11 +34,8 @@ Always use an app password, never your main password!
  - [The Ultimate Directory](https://blueskydirectory.com/) - large searchable index of starter packs and lists
 
 ## Migration
- - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
+ - [Sky Follower Bridge](https://sky-follower-bridge.dev/) - Browser add-on to find your social media follows and followers on Bluesky
  - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter
- - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
- - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
- - [Sky Follower Bridge](https://sky-follower-bridge.dev/) - Chrome add-on to find your Twitter follows and followers on Bluesky
  - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
 
 ## Post Analytics

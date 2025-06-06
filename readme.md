@@ -32,7 +32,8 @@ Always use an app password, never your main password!
  - [Starter Pack/List conversions and combinations](https://nws-bot.us/bskyStarterPack.php) - Collection of tools for converting Starter Packs to Lists and back, combining lists, and more
  - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools
  - [The Ultimate Directory](https://blueskydirectory.com/) - large searchable index of starter packs and lists
-
+ - [BskyInfo](https://www.bskyinfo.com/) - The Most Comprehensive Bluesky Tools Directory ~ Find everything you need to enhance your Bluesky experience.
+ 
 ## Migration
  - [Sky Follower Bridge](https://sky-follower-bridge.dev/) - Browser add-on to find your social media follows and followers on Bluesky
  - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter

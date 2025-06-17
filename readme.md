@@ -20,6 +20,7 @@ Always use an app password, never your main password!
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
+ - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - A mobile app for real-time tracking & managing of your Bluesky followers & followings!
  
 ## Feeds, Labels, and Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
@@ -53,6 +54,7 @@ Always use an app password, never your main password!
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools
+ - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - post analysis and advanced post stats. Also a likes tracker.
  - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky
 
 ## Post Management 

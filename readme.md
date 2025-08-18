@@ -20,6 +20,7 @@ Always use an app password, never your main password!
  - [Skircle](https://skircle.me/) - create a personalized interaction circle
  - [Skycle.app](https://skycle.app/) - highly customizable interaction circles 
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
+ - [BlueFacts.app](https://bluefacts.app/) - Bluesky Trends and Insights ~ Discover interesting people and trends on Bluesky.
  
 ## Feeds, Labels, and Starter Packs
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
@@ -32,13 +33,11 @@ Always use an app password, never your main password!
  - [Starter Pack/List conversions and combinations](https://nws-bot.us/bskyStarterPack.php) - Collection of tools for converting Starter Packs to Lists and back, combining lists, and more
  - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools
  - [The Ultimate Directory](https://blueskydirectory.com/) - large searchable index of starter packs and lists
-
+ - [BskyInfo](https://www.bskyinfo.com/) - The Most Comprehensive Bluesky Tools Directory ~ Find everything you need to enhance your Bluesky experience.
+ 
 ## Migration
- - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
+ - [Sky Follower Bridge](https://sky-follower-bridge.dev/) - Browser add-on to find your social media follows and followers on Bluesky
  - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter
- - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
- - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
- - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
  - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) - Chrome/Firefox add-on to redirect current Twitter/X share buttons to Bluesky
 
 ## Post Analytics
@@ -50,7 +49,7 @@ Always use an app password, never your main password!
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
  - [Bskypt](https://bskypt.vercel.app/) - generate a "social receipt"
  - [Fedica](https://fedica.com/) - posting analysis and and insights
- - [SkyKit](https://skykit.blue/) - post engagement analysis
+ - [SkyKit](https://skykit.blue/) - post engagement analysis 
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools
  - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky
@@ -66,7 +65,6 @@ Always use an app password, never your main password!
  
 
 ## Other tools
- - [AT Webhooks](https://atprotowebhooks.com) - generally programmable firehose-to-webhook server
  - [bannerizer](https://bannerizer.glitch.me/) - easily crop or resize an image to fit Bluesky's banner size requirements
  - [Best BlueSky Apps](https://bestblueskyapps.com) - a complete directory of best BlueSky apps and tools
  - [Blockenheimer](https://blockenheimer.click/) - quickly block or mute users who have liked or reposted any given post
@@ -78,11 +76,9 @@ Always use an app password, never your main password!
  - [Blu.Ski](https://blu.ski) - Short links to bluesky profiles
  - [Blueviewer](https://blueviewer.pages.dev/) - Bluesky thread viewer
  - [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) – Start a conversation next to any web page using your Bluesky account
- - [BskyThreadReader](https://bskythreadreader.glitch.me/) - Look at and share any Bluesky Thread without logging in.
  - [Byesky](https://byesky.pirhoo.com/) - Clean-up followings, non-mutuals or simply delete all your subscriptions with ease
  - [cleanfollow-bsky](https://cleanfollow-bsky.pages.dev/) - tool to unfollow inactive or blocked accounts
  - [ClearSky Search Tool](https://clearsky.app/) - see who is blocking you, who a user is blocking, the total amount of Bluesky users, or look up a DID.
- - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
  - [Firesky](https://firesky.tv/) - every post everywhere all at once
  - [graysky.social](https://graysky.social/) - community handle provider
  - [hellsky](https://hellsky.vvvvv.co/) - every image on the firehose (warning, will almost certainly be NSFW)
@@ -102,11 +98,13 @@ Always use an app password, never your main password!
  - [TipTopBot](https://tiptopbot.com) - List followers or follows for any Bluesky handle and export them to a CSV file
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
  - [Woosh.link](https://woosh.link/) - Effortless link sharing for Bluesky and beyond.
+ - [bskyutils](https://bskyutils.com/) - Suite of tools: - Analytics Tool, Follow Checker, Starter Pack Finder and Audience Analytics.
+ - [Bluesky Unfollowers Tracker](https://play.google.com/store/apps/details?id=com.bluesky.followers.analyzer) - Easily track who’s following you, who has unfollowed you, and gain valuable insights into your Bluesky network. Android App & iOS due soon!
 
 ## Alternative Clients
  - [AzSky](https://azsky.app) - alternative client featuring a threaded view and support for long posts with a 50,000-character limit.
- - [Bluesky Follower Explorer](https://bluesky-followers.advaith.io/) - see who follows your followers
  - [Bluepeers](https://bluepeers.app/) - find & engage with your active Bluesky peers through a Chrome extension
+ - [blueskybookmarks.com](https://blueskybookmarks.com/) - Android PWA Bookmarks.
  - [Croissant](https://croissantapp.com/) - alternative native iOS cross-posting client for Bluesky, Mastodon and Threads
  - [DarkSky](https://github.com/FireCubeStudios/DarkSky) - modern client for Windows
  - [deck.blue](https://deck.blue/) - alternative web client with column view
@@ -115,7 +113,6 @@ Always use an app password, never your main password!
  - [Klearsky](https://klearsky.pages.dev/) - alternative web client that is "design first"
  - [Langit](https://langit.pages.dev/) - alternative mobile web client
  - [Nootti](https://nootti.com) - alternative native iOS/iPad cross-posting client for Bluesky, Mastodon and Nostr
- - [Ouranos](https://useouranos.app/) - webclient built with Next.js
  - [RedGazer](https://www.redgazer.com/) - alternative front end focusing on media content
  - [Skeetdeck](https://skeetdeck.pages.dev/) - web client based on Tweetdeck
  - [Skeets](https://www.skeetsapp.com) - alternative client for iOS, iPadOS and MacOS
@@ -123,7 +120,6 @@ Always use an app password, never your main password!
  - [SkyFeed](https://skyfeed.app) - alternative web client with a powerful custom feed builder
  - [Tabtter](https://tabtter.jp/) - webclient with a Japanese focus
  - [Tuisky](https://github.com/sugyan/tuisky) - a TUI client for Bluesky
- - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
  - [Unisky](https://github.com/UnicordDev/UniSky) - client for Windows 11, Windows 10 and Windows 10 Mobile 
 
 

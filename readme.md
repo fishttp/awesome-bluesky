@@ -51,6 +51,7 @@ Always use an app password, never your main password!
  - [Bskypt](https://bskypt.vercel.app/) - generate a "social receipt"
  - [Fedica](https://fedica.com/) - posting analysis and and insights
  - [SkyKit](https://skykit.blue/) - post engagement analysis
+ - [SkyPilot](https://skypilot.social) - Engagement, post time and hashtag analytics + post scheduling
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools
  - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky

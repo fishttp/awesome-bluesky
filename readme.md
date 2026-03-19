@@ -51,7 +51,7 @@ Always use an app password, never your main password!
  - [Bluesky Post Trend Map](https://bsky-post-map.vercel.app/) - view a user's 30 day trend
  - [Blueview](https://blueview.app/) - insights and analytics plus support for creating posts
  - [Bskypt](https://bskypt.vercel.app/) - generate a "social receipt"
- - [Fedica](https://fedica.com/) - posting analysis and and insights
+ - [Fedica](https://fedica.com/) - Bluesky scheduler, analytics, advanced search, and audience analysis.
  - [SkyKit](https://skykit.blue/) - post engagement analysis
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools

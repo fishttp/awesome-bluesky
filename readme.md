@@ -24,6 +24,7 @@ Always use an app password, never your main password!
  - [Stats for Bluesky by Jaz](https://bsky.jazco.dev/) - aggregate stats for all posts in Jaz's Bluesky index.
  
 ## Feeds, Labels, and Starter Packs
+ - [Bluesky Community Finder](https://apify.com/datagrit/bluesky-community-finder) - search starter packs, custom feeds and lists by topic, with join counts, feed likes and full member lists exportable to CSV/JSON
  - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - design and customize your Bluesky feeds, no coding knowledge required
  - [Bluesky Labelers](https://www.bluesky-labelers.io/) - searchable index of labelers
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator

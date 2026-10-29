@@ -64,6 +64,7 @@ Always use an app password, never your main password!
  - [bskylog](https://github.com/hidea/app_bskylog) - keep a local copy of all your Bluesky posts
  - [PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) - iOS app to bookmark posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - clean up old posts, likes, and reposts from your Bluesky account
+ - [Refract](https://refract.social/) - social media scheduler that drafts a native version of each post for Bluesky and 10 other networks; you approve every version before it posts
  - [SkySweeper](https://skysweeper.p8.lu/) - automatically delete old posts
  
 
